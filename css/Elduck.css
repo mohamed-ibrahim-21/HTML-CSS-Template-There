@@ -1260,7 +1260,7 @@ header .nav > li:hover .megamenu {
 .stats {
     padding-top: var(--main-padding);
     padding-bottom: var(--main-padding);
-    background-image: url(/images/stats/stats.jpg);
+    background-image: url(../images/stats/stats.jpg);
     position: relative;
 }
 .stats::before {
@@ -1350,7 +1350,7 @@ header .nav > li:hover .megamenu {
     justify-content: center;
     flex-basis: 50%;
     padding: 50px;
-    background-image: url(/images/discount/discount-background1.jpg);
+    background-image: url(../images/discount/discount-background1.jpg);
     background-size: cover;
     position: relative;
     z-index: 1;
